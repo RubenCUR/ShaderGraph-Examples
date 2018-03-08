@@ -1,0 +1,31 @@
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Code Editors
+.idea
+.vscode
+*.csproj
+*.sln
+*.swp
+UnityCrashHandler64.exe
+UnityPlayer.dll
+
+# Vim
+*.swp
+
+# Unity
+/Library
+/Temp
+/UnityPackageManager
+/Packages
+/Debug
+/Mono
+
+# VS
+/.vs
+
