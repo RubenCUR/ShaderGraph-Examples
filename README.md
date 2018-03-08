@@ -1,8 +1,12 @@
-# upm-package-template-3DLegacy
-Project Template for 3D scenes not using a SRP and empty
+# A compilation of ShaderGraph Examples for Unity 2018.1.0b8 
 
-This template uses Unity’s built in rendering pipeline and contain no content by default. This is a good starting point for developers looking to create 3D projects.
+![gif](https://aerthe.com/Unity/s.gif)
 
+# ShaderGraphExamples-master
+https://github.com/keijiro/ShaderGraphExamples
 
-Package Name: com.unity.template.3dempty
-Package Version: 0.0.2
+# ShaderGraph_ExampleLibrary-master	
+https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary
+
+# Aerthe ShaderGraph Examples
+https://aerthe.com/content/7-unity
