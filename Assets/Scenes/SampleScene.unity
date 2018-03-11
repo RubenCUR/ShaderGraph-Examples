@@ -236,9 +236,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 41418030}
-  m_Text: 'Coloring
-
-'
+  m_Text: Grunge (edited)
   m_OffsetZ: 0
   m_CharacterSize: 0.04
   m_LineSpacing: 1
@@ -409,9 +407,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 125075933}
-  m_Text: 'Coloring
-
-'
+  m_Text: Hologram
   m_OffsetZ: 0
   m_CharacterSize: 0.04
   m_LineSpacing: 1
@@ -569,7 +565,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 189115618}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.52, y: 1.5, z: 0}
+  m_LocalPosition: {x: -1.52, y: 1.444, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1469562457}
@@ -582,11 +578,9 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 189115618}
-  m_Text: 'Coloring
-
-'
+  m_Text: ScrollingTextureOverlay
   m_OffsetZ: 0
-  m_CharacterSize: 0.04
+  m_CharacterSize: 0.025
   m_LineSpacing: 1
   m_Anchor: 1
   m_Alignment: 0
@@ -1071,7 +1065,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 430541684}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -1.51, z: 0}
+  m_LocalPosition: {x: 0, y: -1.53, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1469562457}
@@ -1084,11 +1078,9 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 430541684}
-  m_Text: 'Coloring
-
-'
+  m_Text: VoronoiBugs
   m_OffsetZ: 0
-  m_CharacterSize: 0.04
+  m_CharacterSize: 0.035
   m_LineSpacing: 1
   m_Anchor: 1
   m_Alignment: 0
@@ -1684,9 +1676,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 542282094}
-  m_Text: 'Coloring
-
-'
+  m_Text: CarPaint
   m_OffsetZ: 0
   m_CharacterSize: 0.04
   m_LineSpacing: 1
@@ -1946,9 +1936,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 611646193}
-  m_Text: 'Coloring
-
-'
+  m_Text: ToonRamp
   m_OffsetZ: 0
   m_CharacterSize: 0.04
   m_LineSpacing: 1
@@ -2631,7 +2619,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 904616078}
-  m_Text: CutOut
+  m_Text: RimLight
   m_OffsetZ: 0
   m_CharacterSize: 0.04
   m_LineSpacing: 1
@@ -2704,7 +2692,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 907535971}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.5, y: 1.5, z: 0}
+  m_LocalPosition: {x: 1.5, y: 1.444, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1469562457}
@@ -2717,11 +2705,9 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 907535971}
-  m_Text: 'Coloring
-
-'
+  m_Text: AlpaClipExperiment
   m_OffsetZ: 0
-  m_CharacterSize: 0.04
+  m_CharacterSize: 0.025
   m_LineSpacing: 1
   m_Anchor: 1
   m_Alignment: 0
@@ -3401,9 +3387,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1261763033}
-  m_Text: 'Coloring
-
-'
+  m_Text: PhaseInAndOut
   m_OffsetZ: 0
   m_CharacterSize: 0.04
   m_LineSpacing: 1
@@ -3731,7 +3715,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1386641150}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.5, y: -1.51, z: 0}
+  m_LocalPosition: {x: 1.5, y: -1.56, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1469562457}
@@ -3744,9 +3728,9 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1386641150}
-  m_Text: ColorRim 1
+  m_Text: MoonlyColorRim
   m_OffsetZ: 0
-  m_CharacterSize: 0.04
+  m_CharacterSize: 0.03
   m_LineSpacing: 1
   m_Anchor: 1
   m_Alignment: 0
@@ -4361,9 +4345,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1510026057}
-  m_Text: 'Coloring
-
-'
+  m_Text: MetalSimple
   m_OffsetZ: 0
   m_CharacterSize: 0.04
   m_LineSpacing: 1
@@ -5271,7 +5253,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1615629784}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.515, y: -1.51, z: 0}
+  m_LocalPosition: {x: -4.515, y: -1.55, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1469562457}
@@ -5284,9 +5266,9 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1615629784}
-  m_Text: Texturing
+  m_Text: ColoredGhostNoise
   m_OffsetZ: 0
-  m_CharacterSize: 0.04
+  m_CharacterSize: 0.03
   m_LineSpacing: 1
   m_Anchor: 1
   m_Alignment: 0
@@ -6563,9 +6545,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2034904856}
-  m_Text: 'Coloring
-
-'
+  m_Text: Sliced
   m_OffsetZ: 0
   m_CharacterSize: 0.04
   m_LineSpacing: 1
