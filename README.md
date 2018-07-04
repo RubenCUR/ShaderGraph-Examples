@@ -12,5 +12,5 @@ https://github.com/keijiro/ShaderGraphExamples
 # ShaderGraph_ExampleLibrary-master	
 https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary
 
-# Aerthe ShaderGraph Examples
-https://aerthe.com/content/7-unity
+# Aerthe
+https://aerthe.com
